@@ -1,0 +1,30 @@
+{
+  "name": "unfatten",
+  "version": "0.0.0",
+  "description": "Simple schema-based object filtering",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "standard && nyc ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/skewten/unfatten"
+  },
+  "keywords": [
+    "filter",
+    "object",
+    "schema"
+  ],
+  "author": "Ivan K <ivan@sq10.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skewten/unfatten/issues"
+  },
+  "homepage": "https://github.com/skewten/unfatten#readme",
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "coveralls": "^2.11.12",
+    "nyc": "^10.0.0",
+    "standard": "^8.0.0"
+  }
+}
