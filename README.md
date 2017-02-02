@@ -1,6 +1,8 @@
 unfatten
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/skewten/unfatten.svg)](https://greenkeeper.io/)
+
 [![npm version](https://img.shields.io/npm/v/unfatten.svg?style=flat-square)](https://npmjs.com/package/unfatten)
 [![javascript standard style](https://img.shields.io/badge/code%20style-standard-blue.svg?style=flat-square)](http://standardjs.com/)
 [![travis build](https://img.shields.io/travis/skewten/unfatten/master.svg?style=flat-square)](https://travis-ci.org/skewten/unfatten)
